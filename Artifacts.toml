@@ -1,0 +1,10 @@
+[[faust]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "94f7cd87a6a273a6f427d1f4b9217af659c9d1d8"
+libc = "glibc"
+os = "linux"
+
+    [[faust.download]]
+    sha256 = "a2d3fd2fec203622a6c327ed648a2febcef11088bf2564da4f01fcc6a2a04a8c"
+    url = "https://github.com/corajr/faust_jll.jl/releases/download/faust-v2.32.16+0/faust.v2.32.16.x86_64-linux-gnu-cxx11.tar.gz"
